@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js","indexjs2.js"],"names":["newFn","newFn2"],"mappings":"aAAA,IAAIA,MAAQ,aAGZA,QCHA,IAAIC,OAAS,aAGbA","file":"all.js","sourcesContent":["let newFn = ()=>{\r\n    console.log('a123');\r\n};\r\nnewFn();","let newFn2 = ()=>{\r\n    console.log('a');\r\n};\r\nnewFn2();"]}
